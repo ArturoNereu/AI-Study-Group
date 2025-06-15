@@ -28,6 +28,7 @@ Here are the books I've read to make sense of AI/ML/DL. Some are more technical,
 
 They are not in any particular order, although I tried to group them together based on what i think makes sense.
 
+- [Hands-On Large Language Models: Language Understanding and Generation](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) 
 - [AI Engineering: Building Applications with Foundation Models](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) If you feel lost and don’t know where to start, this book can serve as a great map. Chip explains the most common concepts behind AI in a clear and approachable way.
 - [Deep Learning - A Visual Approach](https://www.glassner.com/portfolio/deep-learning-a-visual-approach/) Probably the best resource out there for building solid intuition about the many concepts surrounding deep learning. Andrew, the author, did a wonderful job illustrating these concepts, making it much easier to develop a real understanding of them.
 - [Practical Deep Learning: A Python-Based Introduction](https://nostarch.com/practical-deep-learning-python) Probably the best resource for balancing deep learning concepts with a hands-on, Python-based approach. It’s much easier to follow if you actively implement the code, even if that just means typing out the examples from the book.

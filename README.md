@@ -109,6 +109,7 @@ These are the models I’ve used or explored:
 - [Gemini (Google DeepMind)](https://deepmind.google/technologies/gemini/)
 - [LLaMA (Meta)](https://www.llama.com/)
 - [DeepSeek](https://huggingface.co/deepseek-ai)
+- [Meta Segment Anything Model 2](https://ai.meta.com/sam2/)
 
 If you're looking to explore beyond these, I recommend checking out the following model hubs. They host a wide variety of models with different licenses and for many use cases:
 - [Hugging Face Models Hub](https://huggingface.co/models)

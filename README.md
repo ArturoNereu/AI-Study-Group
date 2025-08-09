@@ -125,6 +125,7 @@ If you're looking to explore beyond these, I recommend checking out the followin
 - [AI Is Nothing Like a Brain, and That’s OK](https://www.quantamagazine.org/ai-is-nothing-like-a-brain-and-thats-ok-20250430) - 04/30/25
 - [John Carmack: Different path to AGI](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/) - 02/02/23
 - Deep Learning in a Nutshell [Part 1: Core Concepts](https://developer.nvidia.com/blog/deep-learning-nutshell-core-concepts/) | [Part 2:  History and Training](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/) | [Part 3: Sequence Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-sequence-learning/) | [Part 4: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) | [Part 5: Reinforcement Learning](https://developer.nvidia.com/blog/deep-learning-nutshell-reinforcement-learning/) - 11/03/2015
+- [LLM Visualization](https://bbycroft.net/llm) This interactive article and visualization of how an LLM works (specifically the inference process) is a wonderful resource for reducing the abstraction around LLMs and seeing them in action. It focuses on the nanoGPT model.
 
 ## Papers
 <img src="./Illustrations/Characters/AI_Scientist.png" alt="AI Scientist" align="right" width="200px">

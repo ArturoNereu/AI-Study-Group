@@ -22,7 +22,7 @@ Do I know AI? Not really. But I’m learning, building, and having a great time 
 I hope something in here is useful to you too. And if you have suggestions or feedback, I’d love to hear it.
 
 ## Books
-<img src="./Illustrations/Characters/NI_Cool.png" alt="NI Cool" align="right" width="200px">
+<img src="./Illustrations/Characters/AI_Read.png" alt="NI Cool" align="right" width="200px">
 
 Here are the books I've read to make sense of AI/ML/DL. Some are more technical, some are more theoretical, and some are more ideas.
 

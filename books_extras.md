@@ -1,4 +1,4 @@
-<img src="./Illustrations/Characters/NI_Cool2.png" alt="NI Cool" align="right" width="200px">
+<img src="./Illustrations/Characters/NI_Read.png" alt="NI Cool" align="right" width="200px">
 
 ## Books - Extras
 

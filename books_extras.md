@@ -4,6 +4,8 @@
 
 To avoid bloating the books section in the [README](/README.md), I’m adding books adjacent to AI, which I see more as food for thought, or as ethical, political, and guidance works.
 
+- [A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains](https://www.abriefhistoryofintelligence.com/book) This book serves as a map for understanding intelligence, mostly through an evolutionary lens. It’s one of the most comprehensive and direct references I’ve seen on the topic, with plenty of ideas that can inspire how we think about building artificial intelligence systems and models. The author focuses on five key breakthroughs that shaped the human brain into what it is today: steering, reinforcing, simulating, mentalizing, and speaking.
+
 - [The Third Chimpanzee](https://www.penguinrandomhouse.com/books/220289/the-third-chimpanzee-by-jared-diamond/) This book explores how humans evolved into the ‘third chimpanzee,’ offering lessons for AI developers and designers. From human history and animal behavior, there are patterns we can reflect on. AI won’t be a mammal, so it’s not a ‘fourth chimpanzee,’ but because we are creating it, we should use past lessons to build something beneficial for ourselves and others.
 
 - [The Chaos Machine](https://www.hachettebookgroup.com/titles/max-fisher/the-chaos-machine/9780316703307/) The book shows how many of social media’s problems arose from AI optimizing too narrowly toward specific goals. These examples can serve as warnings as we design chatbots and GPT-style systems.

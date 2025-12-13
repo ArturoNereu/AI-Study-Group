@@ -68,6 +68,7 @@ Of course, these won’t solve every use case, and I’m not listing every suppo
 |------------------|--------|
 | Core Frameworks   |   - [**Hugging Face**](https://huggingface.co/): A hub, that hosts models, datasets, apps, and communities around AI. <br> - [**Ollama**](https://ollama.com/): Run LLMs locally in your computer(CLI). <br> - [**LM Studio**](https://lmstudio.ai/): Discover, and run LLMs in your computer, using a UI.|
 | Developer Tools   |   - [**Gradio**](https://www.gradio.app/): Create ML-powered apps for the web. Easy to use UI API. <br> - [**Google Colab**](https://colab.research.google.com/): You have seen probably many resources use Jupyter Notebooks, this platform allows you to run them. <br> - [**MongoDB**](https://mongodb.com/): Database that allows you to perform vector search. |
+| Visualization Tools   |   - [**LLM Visualization**](https://bbycroft.net/llm): Visualize, and see step-by-step how an LLM works. <br> - [**Embeddings Vis**](https://arturonereu.com/tools/embeddings): Visualize the resulting embeddings from multiple models, and their semantic distance. In 3D space. |
 
 ## Python Libraries & Toolkits
 <img src="./Illustrations/Characters/AI_Aha.png" alt="AI Aha" align="right" width="200px">

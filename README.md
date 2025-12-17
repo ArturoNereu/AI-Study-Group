@@ -57,6 +57,7 @@ One more thing I appreciate: in the world of AI, many of the best video talks an
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=rWDYNLAteyWnhHju) Grant Sanderson's (3Blue1Brown) live explanation on how to think visually about transformers. This session is at the intersection of art and science.
 - [Deep Dive into LLMs like ChatGPT](https://youtu.be/7xTGNNLPyMI?si=aUTq_qUzyUx36BsT) Aderej Karpathy's(OpenAI, Tesla, Stanford) masterclass on how LLMs work. In-depth, but super accesible.
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2095s) Andrej Karpathy's step-by-step guide on building GPT.
+- [Real-World AI Search: Building a RAG System from Scratch](https://youtu.be/XtNnD2Eik6g?si=IwxtMxEDN8rQ521o) In this video, I walk through the basics of building a Retrieval-Augmented Generation (RAG) system; a way to give your LLM data that's either not publicly available, or that was not part of their training.
 
 ## Tools, Frameworks & Platforms
 <img src="./Illustrations/Characters/NI_Architect.png" alt="AI Architect" align="right" width="200px">

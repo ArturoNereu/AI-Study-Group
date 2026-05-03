@@ -1,4 +1,4 @@
-![](./Illustrations/Banner.png)
+<img width="135" height="34" alt="image" src="https://github.com/user-attachments/assets/32c5ace8-5128-4ba3-9d67-9286f3978485" />![](./Illustrations/Banner.png)
 
 ### TL;DR
 
@@ -52,6 +52,7 @@ I find it increasingly difficult these days to stay focused on videos. Maybe it�
 However, the videos listed here are so well-made, well-researched, and genuinely interesting that I believe they’re not just useful, but sticky.
 One more thing I appreciate: in the world of AI, many of the best video talks and tutorials often come directly from the people actually building the models, frameworks, and tools. What a great time to be learning.
 
+- [Andrej Karpathy: From Vibe Coding to Agentic Engineering] (https://youtu.be/96jN2OCOfLs) An overview of Karpathy’s view on the evolution of AI-assisted software development, including interesting points about what should remain the human’s responsibility, even when the code is written by an LLM.
 - [Andrej Karpathy: Software Is Changing (Again)](https://youtu.be/LCEmiRjPEtQ?si=3osbmpa4XjRDazJa) This session is great session outlining how the way we talk to computers is changing. We're still just transforming data, but the way we do so, is changing. I think this is particularly useful for software developers, Computer Scientists, and students who wonder if a CS career is worth it in 2025.
 - [Transformers (how LLMs work) explained visually](https://youtu.be/wjZofJX0v4M?si=AdcRXv8GtgIZTqkw) 3Blue1Brown’s beautifully and clearly explained video on how large language models (LLMs) work, including the transformer architecture and the concept of embeddings.
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=rWDYNLAteyWnhHju) Grant Sanderson's (3Blue1Brown) live explanation on how to think visually about transformers. This session is at the intersection of art and science.

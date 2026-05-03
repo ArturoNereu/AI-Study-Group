@@ -1,4 +1,4 @@
-<img width="135" height="34" alt="image" src="https://github.com/user-attachments/assets/32c5ace8-5128-4ba3-9d67-9286f3978485" />![](./Illustrations/Banner.png)
+![](./Illustrations/Banner.png)
 
 ### TL;DR
 

@@ -5,6 +5,7 @@
 At the core of most AI advances is research — deep, complex work published by people pushing the boundaries of what’s possible. These breakthroughs often appear in the form of academic papers.
 Reading papers can be overwhelming at first. It’s not always easy to unpack their meaning or follow the math. I suggest using tools like [NotebookLM](https://notebooklm.google.com/) or joining a local AI paper-reading club.
 
+- [A Neural Probabilistic Language Model](https://jmlr.org/papers/volume3/tmp/bengio03a.pdf)
 - [Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://www.arxiv.org/abs/2505.01441)
 - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
